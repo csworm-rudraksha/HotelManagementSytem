@@ -75,10 +75,11 @@ Ensure that the following libraries are included in your project:
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](photos/ss4.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](photos/ss3.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](photos/ss2.png)
+![App Screenshot](photos/ss1.png)
 
 
