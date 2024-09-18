@@ -47,7 +47,7 @@ Here’s an overview of the core files and their functionalities:
 ## Setup and Installation
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/hotel-management-system.git
+git clone https://github.com/csworm-rudraksha/hotel-management-system.git
 cd hotel-management-system 
 ```
 ### 2. Database Setup
